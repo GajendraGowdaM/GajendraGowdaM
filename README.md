@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gajendra C M
 
-A passionate developer from 🇮🇳 India
+# A passionate developer from 🇮🇳 India
 
 - 🌱 I’m currently deepening my skills in **MongoDB, Express.js, React.js, Node.js**, and **Data Visualization**
 - 💼 Open to opportunities in **Full-Stack Development**, **Data Analysis**, and **Tech Internships**
