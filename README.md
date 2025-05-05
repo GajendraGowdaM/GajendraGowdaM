@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Gajendra C M
 
-<!--
-**GajendraGowdaM/GajendraGowdaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate developer from 🇮🇳 India
 
-Here are some ideas to get you started:
+- 🌱 I’m currently deepening my skills in **MongoDB, Express.js, React.js, Node.js**, and **Data Visualization**
+- 💼 Open to opportunities in **Full-Stack Development**, **Data Analysis**, and **Tech Internships**
+- 💻 Check out all my projects here on [GitHub](https://github.com/yourusername)
+- 📄 Check out my resume - [My Resume](https://link-to-your-resume.com)
+- 🧠 Ask me about **JavaScript**, **APIs**, **Dashboards**, or **Database Management**
+- 📫 Reach out to me at
+  gajendraprema82@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats:
+![Gajendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
+<!-- Optional: Top languages -->
+![Top Langs]
+python
