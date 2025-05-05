@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently deepening my skills in **MongoDB, Express.js, React.js, Node.js**, and **Data Visualization**
 - 💼 Open to opportunities in **Full-Stack Development**, **Data Analysis**, and **Tech Internships**
-- 💻 Check out all my projects here on [GitHub](https://github.com/yourusername)
+- 💻 Check out all my projects here on [GitHub](https://github.com/GajendraGowdaM)
 - 📄 Check out my resume - [My Resume](https://link-to-your-resume.com)
 - 🧠 Ask me about **JavaScript**, **APIs**, **Dashboards**, or **Database Management**
 - 📫 Reach out to me at
@@ -12,6 +12,6 @@
 
 ## GitHub Stats:
 
-![Gajendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![Gajendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GajendraGowdaM&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GajendraGowdaM&layout=compact&theme=default)
