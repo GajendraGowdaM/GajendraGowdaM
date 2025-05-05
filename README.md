@@ -11,8 +11,7 @@ A passionate developer from 🇮🇳 India
   gajendraprema82@gmail.com
 
 ## GitHub Stats:
+
 ![Gajendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
 
-<!-- Optional: Top languages -->
-![Top Langs]
-python
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
